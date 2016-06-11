@@ -24,6 +24,9 @@
   },
   "dependencies": {
     "react": "^15.1.0",
-    "react-dom": "^15.1.0"
+    "react-bootstrap": "^0.29.4",
+    "react-dom": "^15.1.0",
+    "react-grid-layout": "^0.12.6",
+    "react-layout-components": "^3.0.0"
   }
 }

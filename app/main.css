@@ -1,3 +1,32 @@
-body {
-  background: pink;
+.content {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.logoNavigation {
+  height: 50px;
+  width: 276px;
+}
+
+.field {
+  width: 2.27%;
+  background-color: #a6cc33;
+  padding-bottom: 8px;
+  font-size: 12px;
+}
+
+.unavailable {
+  background-color: white;
+}
+
+.navbar-brand {
+  padding: 0 !important;
+}
+
+.react-layout-components--box {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
 }
